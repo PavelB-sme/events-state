@@ -1,0 +1,19 @@
+.button {
+  border: solid, #000, 1px;
+  color: #000;
+  font-size: 20px;
+  background-color: rgb(234, 232, 232);
+
+}
+
+.button_active {
+  color: #fff;
+  background-color: darkgray;
+  font-weight: 500;
+}
+
+.filter {
+  display: flex;
+  gap: 10px;
+  padding-top: 50px;
+}
