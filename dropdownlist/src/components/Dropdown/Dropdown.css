@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+.button_drop {
+  height: 60px;
+  width: 250px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #507cfb;
+  border: solid, #3e71fc, 1px;
+  border-radius: 5px;
+  box-shadow: 10px 3px 10px 5px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 16px;
+  position: relative;
+}
+
